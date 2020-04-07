@@ -72,8 +72,8 @@ lsi: False
 username: enfants-sauvages
 repo: enfants-sauvages.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: ../enfants-sauvages/
+destination: enfants-sauvages-pages/
 production_url:  https://enfants-sauvages.github.io/
 source_url:  https://github.com/enfants-sauvages/enfants-sauvages.github.io
 
