@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/waves.jpg'
+cover: 'assets/images/enfant-sauvage.png'
 navigation: True
-title: Out to Sea
+title: Mon premier post de test
 date: 2020-04-08 12:08:10
-tags: fiction
+tags:
 class: post-template
 subclass: 'post tag-fiction'
-author: edgar
+author: enfant-sauvage
 ---
 
 Hello World
