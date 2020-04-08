@@ -10,11 +10,11 @@ baseurl: /
 
 # Website info
 title: Enfants Sauvages
-description: Entretetenir des cultures de résistance
-cover: assets/images/Baniere_enfant_sauvage.png
+description: Tic Tac Tic TAK
+cover: assets/images/ES_banniere_verte.png
 logo: assets/images/es-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+# logo_dark: assets/images/favicon.png
+# favicon: assets/images/favicon.png
 production_url:  https://enfants-sauvages.github.io/
 source_url:  https://github.com/enfants-sauvages/enfants-sauvages.github.io
 CNAME: #add cname for website to be created
