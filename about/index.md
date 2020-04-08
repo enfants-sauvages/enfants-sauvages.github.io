@@ -6,12 +6,27 @@ navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
+
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+# Un Enfant Sauvage sur Internet afin de : 
+* Soutenir les résistances actuelles et avenirs
+* Promouvoir et faciliter l’action individuelle et collective
+## Par la :
+* Sélection d’article, vidéo qui me paraisse pertinente à voir
+* Production de récits utopiques se voulant participative
+* Production de critique radicale du système, de la civilisation (en tout cas des tentatives)
+* Partage d’avis, de piste d’amélioration sur les luttes actuelles
+* Publication de guide pratique/ stratégique existant ou exclusif sur différent thème (l’activisme, la culture régénératrice, etc)
+* Et pleins d’autres choses qui n’émergeront qu’avec le temps !
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Durant la période du confinement, je vais essayer de faire des publications régulièrement. 
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+la boite aux lettres : enfants.sauvages@protonmail.com
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+### Petite note :
+Les résistances doivent s'organiser au maximum en vrai !
+Cependant,
+il me semble nécessaire de partager partout les idées d’une résistance écologiste, libertaire, féministe, anti-raciste, etc..
+
+## ~°
