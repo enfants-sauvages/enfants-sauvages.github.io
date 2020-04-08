@@ -74,3 +74,13 @@ martin:
   facebook: False
   twitter: False
   cover: False
+enfant-sauvage:
+  username: enfant-sauvage
+  name: Un Enfant Sauvage
+  location: Toulouse, France
+  url_full: False
+  bio: 'Citoyen du monde, ma biographie arrivera plus tard'
+  picture: assets/images/enfant-sauvage.png
+  facebook: Enfant-Sauvage-104786967856823
+  twitter: false
+  cover: False
