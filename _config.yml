@@ -25,7 +25,8 @@ subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 # twitter: tryghost # replace by your username
-facebook: Enfant-Sauvage-104786967856823 #Enfant-Sauvage # replace by your username
+facebook: Enfant-Sauvage-104786967856823 # replace by your username
+instagram: enfant_sauvageee
 
 # Disqus
 disqus: False
