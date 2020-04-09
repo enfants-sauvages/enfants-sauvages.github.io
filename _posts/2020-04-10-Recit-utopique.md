@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/recit_utopique.png'
+cover: 'assets/images/post_recit.png'
 navigation: True
-title: Appel à la création de récit utopique
+title: Appel à la création de nouveau récit
 date: 2020-04-10 12:00:00
 tags:
 class: post-template
