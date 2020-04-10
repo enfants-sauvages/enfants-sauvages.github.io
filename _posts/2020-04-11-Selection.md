@@ -15,6 +15,8 @@ author: enfant-sauvage
 
 #### Il me semble important de pouvoir faire une sélection dans l’avalanche d’information que nous recevons en permanence.
 
+------
+
 **Nous sommes dans Black Mirror, nous l’étions déjà mais c’était moins flagrant.**
 
 ➡️ [https://reporterre.net/Au-nom-du-coronavirus-l-Etat-met-en-place-la-societe-de-controle](https://reporterre.net/Au-nom-du-coronavirus-l-Etat-met-en-place-la-societe-de-controle)
@@ -36,7 +38,7 @@ author: enfant-sauvage
 ➡️ [https://www.facebook.com/WingsOfTheOcean/videos/672160473539859/](https://www.facebook.com/WingsOfTheOcean/videos/672160473539859/)
 - Des choses à rediscuter mais à voir, Wings of the Ocean
 
-➡️ [http://canempechepasnicolas.over-blog.com/2020/04/appel-des-peuples-indigenes-afro-descendants-et-des-organisations-populaires-d-amerique-latine.html)(http://canempechepasnicolas.over-blog.com/2020/04/appel-des-peuples-indigenes-afro-descendants-et-des-organisations-populaires-d-amerique-latine.html)
+➡️ [http://canempechepasnicolas.over-blog.com/2020/04/appel-des-peuples-indigenes-afro-descendants-et-des-organisations-populaires-d-amerique-latine.html](http://canempechepasnicolas.over-blog.com/2020/04/appel-des-peuples-indigenes-afro-descendants-et-des-organisations-populaires-d-amerique-latine.html)
 - Des propositions plus radicales en Amérique latine ?
 
 🔴 **En bonus, Une interview à lire très fortement !**
@@ -51,4 +53,3 @@ Si jamais ça vous intéresse, n’hésitez pas à suivre la page [Enfant Sauvag
 Dont celle-ci à pour but de promouvoir les cultures de résistance ! ✊
 
 ~°
-
