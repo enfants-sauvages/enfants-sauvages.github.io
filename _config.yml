@@ -37,7 +37,6 @@ disqus_shortname: jekyller # replace with your disqus username
 
 # Permalinks
 permalink: /:title
-permalink: /:author
 # permalink: /author/:author
 # permalink: /tag/:tag
 
