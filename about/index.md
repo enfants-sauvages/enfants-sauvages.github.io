@@ -2,6 +2,7 @@
 layout: page
 current: about
 navigation: true
+title: ~°----°~
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
