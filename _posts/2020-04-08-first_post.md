@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/post_fanzine.png'
 navigation: True
-title: Créer son Fanzine/collage "révolutionnaire fait maison ! 
+title: Créer son Fanzine/collage fait maison ! 
 date: 2020-04-08 12:08:10
 tags:
 class: post-template
@@ -31,7 +31,10 @@ C’est une tentative de substitution de la culture dominante, consumériste et 
 Un podcast sur le blog de floraisons en parle bien !
 - [https://floraisons.blog/podcast2-7/](https://floraisons.blog/podcast2-7/) 
 
-Donc voici un petit bouquet de fanzine/collage réalisé par moi même (un enfant sauvage) et des copaines :
+Envoyez-moi vos fanzines/collages par mail, enfants.sauvages@protonmail.com
+j’en ferais une publication avec celles-cis :)
+
+**Voici un petit bouquet de fanzine/collage réalisé par moi même (un enfant sauvage) et des copaines :**
 
 ![Page](/assets/images/z_page1.jpg)
 
@@ -41,13 +44,21 @@ Donc voici un petit bouquet de fanzine/collage réalisé par moi même (un enfan
 
 ![Page](/assets/images/z_page4.jpg)
 
-Envoyez-moi vos fanzines/collages par mail, enfants.sauvages@protonmail.com
-j’en ferais une publication avec celles-cis :)
-Entretenons des cultures de résistance ~°
-Ptit note :
-Durant la période du confinement,
-je vais faire régulièrement des publications sur différents thèmes sur cette page là.
-Alors si ça vous intéresse, n’hésitez à suivre la page. 
+![Page](/assets/images/z_collage1.jpg)
 
+![Page1](/assets/images/z_collage2.jpg)
 
+![Page](/assets/images/z_collage3.jpg)
+
+![Page](/assets/images/z_collage4.jpg)
+
+![Page](/assets/images/z_collage5.jpg)
+
+![Page1](/assets/images/z_collage6.jpg)
+
+![Page](/assets/images/z_collage7.jpg)
+
+**Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à gunnard.jackiel@laposte.net*
+
+**Entretenons des cultures de résistance ~°
 
