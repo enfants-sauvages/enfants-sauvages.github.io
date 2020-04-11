@@ -13,6 +13,38 @@ author: enfant-sauvage
 
 # WOUW ~°
 
-## Voici une vidéo pour donner envie de faire une activité artisanale, créative, émancipatrice !
+Si vous n’avez pas d’autre choix que de restez chez vous..
+Il y aurait plein de chose à apprendre, à faire de très intéressant !
 
-La création d'un fanzine pour remplacer les journées Netflix et réseaux sociaux à GOGO.. 
+**Mais présentement, Je vous propose de faire des fanzines/collages !**
+
+Pour moi, un Fanzine est un journal libre, artisanale et populaire.
+Sa forme et son contenu peuvent être plurielle !
+
+Il réinvente notre rapport aux papiers dans un monde tout-numérique, notre rapport à l’information, à la culture.
+La création d’un Fanzine peut être émancipateur. Il permet par l’assemblage d’image, de texte, de dessin d’extérioriser nos joies, nos angoisses, nos oppressions, nos ressenties. Cela permet parfois de découvrir l’origine d’un problème nous donnant des clés pour les résoudre.
+
+D’un point de vue stratégie de lutte,
+
+Le partage de fanzine est aussi un type d’action servant la bataille culturel. (nécessaire)
+C’est une tentative de substitution de la culture dominante, consumériste et pornographique.
+Un podcast sur le blog de floraisons en parle bien !
+- [https://floraisons.blog/podcast2-7/](https://floraisons.blog/podcast2-7/) 
+
+Donc voici un petit bouquet de fanzine/collage réalisé par moi même (un enfant sauvage) et des copaines :
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/post_fanzine.png "Logo Title Text 1")
+
+Envoyez-moi vos fanzines/collages par mail, enfants.sauvages@protonmail.com
+j’en ferais une publication avec celles-cis :)
+Entretenons des cultures de résistance ~°
+Ptit note :
+Durant la période du confinement,
+je vais faire régulièrement des publications sur différents thèmes sur cette page là.
+Alors si ça vous intéresse, n’hésitez à suivre la page. 
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/post_recit.png "bouh")
+
+
