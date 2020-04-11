@@ -11,7 +11,7 @@ baseurl: /
 # Website info
 title: Enfants Sauvages
 description: <br/><br/><br/> # 3 new lines for a bigger cover
-cover: assets/images/final_banniere.png
+cover: assets/images/final_banniere_min.png
 logo: assets/images/es-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
