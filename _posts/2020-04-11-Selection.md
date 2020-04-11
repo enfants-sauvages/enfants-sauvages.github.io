@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/Post_selection_10_04.png'
+cover: 'assets/images/Post_selection_10_04_min.png'
 navigation: True
 title: Vers un État sécuritaire ou un rebond écologique ?
 date: 2020-04-11 12:00:00
