@@ -34,7 +34,7 @@ Un podcast sur le blog de floraisons en parle bien !
 Donc voici un petit bouquet de fanzine/collage réalisé par moi même (un enfant sauvage) et des copaines :
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/post_fanzine.png "Logo Title Text 1")
+![alt text](https://github.com/enfants-sauvages/enfants-sauvages.github.io/tree/master/assets/images/post_fanzine.png "Logo Title Text 1")
 
 Envoyez-moi vos fanzines/collages par mail, enfants.sauvages@protonmail.com
 j’en ferais une publication avec celles-cis :)
@@ -45,6 +45,6 @@ je vais faire régulièrement des publications sur différents thèmes sur cette
 Alors si ça vous intéresse, n’hésitez à suivre la page. 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/post_recit.png "bouh")
+![oups](https://github.com/enfants-sauvages/enfants-sauvages.github.io/tree/master/assets/images/post_recit.png "Logo Title Text 1"bouh")
 
 
