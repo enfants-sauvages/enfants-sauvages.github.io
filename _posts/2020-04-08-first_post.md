@@ -60,19 +60,19 @@ j’en ferais une publication avec celles-cis :)
 
 **Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à gunnard.jackiel@laposte.net*
 
-![Page](/assets/images/z_fanzine1.jpg)
+![Page](/assets/images/z_fanzine1.png)
 
-![Page](/assets/images/z_fanzine2.jpg)
+![Page](/assets/images/z_fanzine2.png)
 
-![Page](/assets/images/z_fanzine3.jpg)
+![Page](/assets/images/z_fanzine3.png)
 
-![Page](/assets/images/z_fanzine4.jpg)
+![Page](/assets/images/z_fanzine4.png)
 
-![Page](/assets/images/z_fanzine5.jpg)
+![Page](/assets/images/z_fanzine5.png)
 
-![Page](/assets/images/z_fanzine6.jpg)
+![Page](/assets/images/z_fanzine6.png)
 
-![Page](/assets/images/z_fanzine7.jpg)
+![Page](/assets/images/z_fanzine7.png)
 
 **Entretenons des cultures de résistance ~°**
 
