@@ -8,16 +8,27 @@ class: page-template
 subclass: 'post page'
 ---
 
-# Un Enfant Sauvage sur Internet afin de : 
+![Page](/assets/images/bandeau_min.jpg)
+
+#### Je me considère comme un enfant sauvage.
+
+Inapte aux mondes des adultes destructeur et Oppressif
+
+**Un Enfant Sauvage sur Internet afin de :**
+
 * Soutenir les résistances actuelles et avenirs
 * Promouvoir et faciliter l’action individuelle et collective
-## Par la :
+
+**Par la :**
+
 * Sélection d’article, vidéo qui me paraisse pertinente à voir
 * Production de récits utopiques se voulant participative
 * Production de critique radicale du système, de la civilisation (en tout cas des tentatives)
 * Partage d’avis, de piste d’amélioration sur les luttes actuelles
 * Publication de guide pratique/ stratégique existant ou exclusif sur différent thème (l’activisme, la culture régénératrice, etc)
 * Et pleins d’autres choses qui n’émergeront qu’avec le temps !
+
+![Page](/assets/images/bandeau_min.jpg)
 
 Durant la période du confinement, je vais essayer de faire des publications régulièrement. 
 
