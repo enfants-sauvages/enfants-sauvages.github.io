@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-![Page](/assets/images/bandeau_min.jpg)
+![Page](/assets/images/bandeau_min.png)
 
 #### Je me considère comme un enfant sauvage.
 
@@ -28,7 +28,7 @@ Inapte aux mondes des adultes destructeur et Oppressif
 * Publication de guide pratique/ stratégique existant ou exclusif sur différent thème (l’activisme, la culture régénératrice, etc)
 * Et pleins d’autres choses qui n’émergeront qu’avec le temps !
 
-![Page](/assets/images/bandeau_min.jpg)
+![Page](/assets/images/bandeau_min.png)
 
 Durant la période du confinement, je vais essayer de faire des publications régulièrement. 
 
