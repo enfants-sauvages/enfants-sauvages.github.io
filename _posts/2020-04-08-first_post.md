@@ -18,15 +18,15 @@ Il y aurait plein de chose à apprendre, à faire de très intéressant !
 
 **Mais présentement, Je vous propose de faire des fanzines/collages !**
 
-Pour moi, un Fanzine est un journal libre, artisanale et populaire.
-Sa forme et son contenu peuvent être plurielle !
+Pour moi, un Fanzine est un **journal libre, artisanale et populaire.**
+Sa forme et son contenu peuvent être **plurielle !**
 
 Il réinvente notre rapport aux papiers dans un monde tout-numérique, notre rapport à l’information, à la culture.
-La création d’un Fanzine peut être émancipateur. Il permet par l’assemblage d’image, de texte, de dessin d’extérioriser nos joies, nos angoisses, nos oppressions, nos ressenties. Cela permet parfois de découvrir l’origine d’un problème nous donnant des clés pour les résoudre.
+La création d’un Fanzine peut être émancipateur. Il permet par l’assemblage d’image, de texte, de dessin, d’extérioriser nos joies, nos angoisses, nos oppressions, nos ressenties. Cela permet parfois de découvrir l’origine d’un problème nous donnant des clés pour les résoudre.
 
-D’un point de vue stratégie de lutte,
+D’un point de vue **stratégie de lutte**,
 
-Le partage de fanzine est aussi un type d’action servant la bataille culturel. (nécessaire)
+**Le partage de fanzine** est aussi *un type d’action servant la bataille culturelle.* (nécessaire)
 C’est une tentative de substitution de la culture dominante, consumériste et pornographique.
 Un podcast sur le blog de floraisons en parle bien !
 - [https://floraisons.blog/podcast2-7/](https://floraisons.blog/podcast2-7/) 
@@ -60,19 +60,19 @@ j’en ferais une publication avec celles-cis :)
 
 **Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à gunnard.jackiel@laposte.net*
 
-![Page](/assets/images/z_fanzine1.png)
+![Page](/assets/images/z_fanzine1.PNG)
 
-![Page](/assets/images/z_fanzine2.png)
+![Page](/assets/images/z_fanzine2.PNG)
 
-![Page](/assets/images/z_fanzine3.png)
+![Page](/assets/images/z_fanzine3.PNG)
 
-![Page](/assets/images/z_fanzine4.png)
+![Page](/assets/images/z_fanzine4.PNG)
 
-![Page](/assets/images/z_fanzine5.png)
+![Page](/assets/images/z_fanzine5.PNG)
 
-![Page](/assets/images/z_fanzine6.png)
+![Page](/assets/images/z_fanzine6.PNG)
 
-![Page](/assets/images/z_fanzine7.png)
+![Page](/assets/images/z_fanzine7.PNG)
 
 **Entretenons des cultures de résistance ~°**
 
