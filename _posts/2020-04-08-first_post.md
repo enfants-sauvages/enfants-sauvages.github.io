@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post_fanzine.png'
+cover: 'assets/images/post_fanzine_min.png'
 navigation: True
 title: Créer son Fanzine/collage fait maison ! 
 date: 2020-04-08 12:08:10
@@ -60,5 +60,19 @@ j’en ferais une publication avec celles-cis :)
 
 **Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à gunnard.jackiel@laposte.net*
 
-**Entretenons des cultures de résistance ~°
+![Page](/assets/images/z_fanzine1.jpg)
+
+![Page](/assets/images/z_fanzine2.jpg)
+
+![Page](/assets/images/z_fanzine3.jpg)
+
+![Page](/assets/images/z_fanzine4.jpg)
+
+![Page](/assets/images/z_fanzine5.jpg)
+
+![Page](/assets/images/z_fanzine6.jpg)
+
+![Page](/assets/images/z_fanzine7.jpg)
+
+**Entretenons des cultures de résistance ~°**
 
