@@ -10,3 +10,15 @@ enfant-sauvage:
   twitter: false
   instagram: enfant_sauvageee
   cover: False
+test:
+  username: test
+  name: Utilisateur test
+  location: Toulouse, France
+  url_full: https://enfants-sauvages.github.io
+  url: enfants-sauvages.github.io
+  bio: 'Biographie de test'
+  picture: assets/images/es-icon.png
+  facebook: false
+  twitter: false
+  instagram: false
+  cover: False
