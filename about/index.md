@@ -10,9 +10,6 @@ subclass: 'post page'
 
 ![Page](/assets/images/bandeau_min.png)
 
-#### Je me considère comme un enfant sauvage.
-
-Inapte aux mondes des adultes destructeur et Oppressif
 
 **Un Enfant Sauvage sur Internet afin de :**
 
@@ -22,21 +19,19 @@ Inapte aux mondes des adultes destructeur et Oppressif
 **Par la :**
 
 * Sélection d’article, vidéo qui me paraisse pertinente à voir
-* Production de récits utopiques se voulant participative
+* Production de récit utopique
 * Production de critique radicale du système, de la civilisation (en tout cas des tentatives)
 * Partage d’avis, de piste d’amélioration sur les luttes actuelles
 * Publication de guide pratique/ stratégique existant ou exclusif sur différent thème (l’activisme, la culture régénératrice, etc)
 * Et pleins d’autres choses qui n’émergeront qu’avec le temps !
 
-![Page](/assets/images/bandeau_valeur_min.png)
-
-Durant la période du confinement, je vais essayer de faire des publications régulièrement. 
-
-la boite aux lettres : enfants.sauvages@protonmail.com
+**la boite aux lettres :** enfants.sauvages@protonmail.com
 
 ### Petite note :
-Les résistances doivent s'organiser au maximum en vrai !
+Je suis conscient qu'il y a une forte critique à faire des réseaux sociaux.
 Cependant,
-il me semble nécessaire de partager partout les idées d’une résistance écologiste, libertaire, féministe, anti-raciste, etc..
+il me semble nécessaire de partager PARTOUT les idées d’une résistance écologiste, libertaire, féministe, anti-raciste, etc..
+
+Et cet à propos sera plus détaillé par la suite ! 
 
 ## ~°
