@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: 'assets/images/post_fanzine_min.png'
 navigation: True
-title: Créer son Fanzine/collage fait maison ! 
+title: Créer son Fanzine/collage fait maison !
 date: 2020-04-08 12:08:10
 tags:
 class: post-template
@@ -13,16 +13,16 @@ author: enfant-sauvage
 
 # WOUW ~°
 
-Si vous n’avez pas d’autre choix que de restez chez vous..
-Il y aurait plein de chose à apprendre, à faire de très intéressant !
+Si vous n’avez pas d’autre choix que de rester chez vous..
+Il y aurait plein de choses à apprendre, à faire de très intéressants !
 
 **Mais présentement, Je vous propose de faire des fanzines/collages !**
 
-Pour moi, un Fanzine est un **journal libre, artisanale et populaire.**
-Sa forme et son contenu peuvent être **plurielle !**
+Pour moi, un Fanzine est un **journal libre, artisanal et populaire.**
+Sa forme et son contenu peuvent être **pluriels !**
 
 Il réinvente notre rapport aux papiers dans un monde tout-numérique, notre rapport à l’information, à la culture.
-La création d’un Fanzine peut être émancipateur. Il permet par l’assemblage d’image, de texte, de dessin, d’extérioriser nos joies, nos angoisses, nos oppressions, nos ressenties. Cela permet parfois de découvrir l’origine d’un problème nous donnant des clés pour les résoudre.
+La création d’un Fanzine peut être émancipateur. Il permet par l’assemblage d’image, de texte, de dessin, d’extérioriser nos joies, nos angoisses, nos oppressions, nos ressentis. Cela permet parfois de découvrir l’origine d’un problème nous donnant des clés pour les résoudre.
 
 D’un point de vue **stratégie de lutte**,
 
@@ -31,10 +31,10 @@ C’est une tentative de substitution de la culture dominante, consumériste et 
 Un podcast sur le blog de floraisons en parle bien !
 - [https://floraisons.blog/podcast2-7/](https://floraisons.blog/podcast2-7/) 
 
-Envoyez-moi vos fanzines/collages par mail, enfants.sauvages@protonmail.com
-j’en ferais une publication avec celles-cis :)
+Envoyez-moi vos fanzines/collages par mail, [mailto:enfants.sauvages@protonmail.com](enfants.sauvages@protonmail.com)
+j’en ferais une publication avec celles-ci :)
 
-**Voici un petit bouquet de fanzine/collage réalisé par moi même (un enfant sauvage) et des copaines :**
+**Voici un petit bouquet de fanzine/collage réalisés par moi-même (un enfant sauvage) et des copaines :**
 
 ![Page](/assets/images/z_page1.jpg)
 
@@ -58,7 +58,7 @@ j’en ferais une publication avec celles-cis :)
 
 ![Page](/assets/images/z_collage7.jpg)
 
-**Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à gunnard.jackiel@laposte.net*
+**Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à [mailto:gunnard.jackiel@laposte.net](gunnard.jackiel@laposte.net)*
 
 ![Page](/assets/images/z_fanzine1.PNG)
 

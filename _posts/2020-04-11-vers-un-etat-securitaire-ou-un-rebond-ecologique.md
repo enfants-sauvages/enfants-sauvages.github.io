@@ -11,7 +11,7 @@ subclass: 'post tag-fiction'
 author: enfant-sauvage
 ---
 
-### Chaque Vendredi soir, une sélection d’article/ vidéo de la semaine qui me semble pertinent à lire, à méditer.
+### Chaque Vendredi soir, une sélection d’article/vidéo de la semaine qui me semblent pertinents à lire, à méditer.
 
 #### Il me semble important de pouvoir faire une sélection dans l’avalanche d’information que nous recevons en permanence.
 
@@ -45,11 +45,11 @@ author: enfant-sauvage
 ➡️ [https://mrmondialisation.org/que-faire-face-aux-risques-deffondrement-du-monde-contemporain-interview/](https://mrmondialisation.org/que-faire-face-aux-risques-deffondrement-du-monde-contemporain-interview/)
 - Pour envisager des résistances rigoureuses, me semble-t-il.. (Mr Mondialisation et Arthur Keller)
 
-⚠️ - Ici, je fais une sélection non exhaustive des choses importantes/intéressante à lire/voir.
-Et les articles partagés ne reflète pas mes positionnements idéologiques.
+⚠️ - Ici, je fais une sélection non exhaustive des choses importantes/intéressantes à lire/voir.
+Et les articles partagés ne reflètent pas mes positionnements idéologiques.
 
-Ceci est mon premier coup d’essai dans cette exercice là !
+Ceci est mon premier coup d’essai dans cet exercice-là !
 Si jamais ça vous intéresse, n’hésitez pas à suivre la page [Enfant Sauvage](https://www.facebook.com/Enfant-Sauvage-104786967856823/)
-Dont celle-ci à pour but de promouvoir les cultures de résistance ! ✊
+Dont celle-ci a pour but de promouvoir les cultures de résistance ! ✊
 
 ~°
