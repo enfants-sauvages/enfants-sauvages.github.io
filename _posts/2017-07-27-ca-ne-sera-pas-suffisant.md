@@ -5,7 +5,7 @@ cover:  assets/images/pas_suffisant_min.png
 navigation: True
 title: Ça ne sera pas suffisant..
 date: 2020-04-05 10:00:00
-tags: getting-started
+tags: 
 class: post-template
 subclass: 'post tag-getting-started'
 author: enfant-sauvage
