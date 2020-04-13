@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/post_recit_min.png'
+cover: 'assets/images/apres_min.png'
 navigation: True
-title: Appel à la création de nouveaux récits
+title: Aux récits du Jour d’après !
 date: 2020-04-13 12:00:00
 tags:
 class: post-template
