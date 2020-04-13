@@ -11,7 +11,7 @@ subclass: 'post tag-fiction'
 author: enfant-sauvage
 ---
 
-## Que ces nouveaux imaginaires deviennent réalité !
+## Que ces nouveaux imaginaires deviennent réalité ~°
 
 -----
 
@@ -28,11 +28,11 @@ Mais **PAS** de « retour à la normale » !
 
 « .., nous ne saurons plus entendre qu’il est impossible d’effectuer les changement nécessaires aux bien être de toutes et tous. Nous refuserons de participer à la relance de la grande machine capitaliste. »
 
-https://expansive.info/Refusons-le-retour-a-la-normale-2152
+[https://expansive.info/Refusons-le-retour-a-la-normale-2152](https://expansive.info/Refusons-le-retour-a-la-normale-2152)
 
-https://www.facebook.com/pasderetouralanormale/posts/112450153747040
+[https://www.facebook.com/pasderetouralanormale/posts/112450153747040](https://www.facebook.com/pasderetouralanormale/posts/112450153747040)
 
-Partageons **PARTOUT** nos imaginaires *fleurissants et nécessaires.*
+Partageons **PARTOUT** nos imaginaires *fleurissants.*
 Sur les murs, les balcons, les réseaux sociaux..
 
 **Gagnons la bataille culturelle Aujourd’hui !** 
