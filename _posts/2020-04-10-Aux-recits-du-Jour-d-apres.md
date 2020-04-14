@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/apres_min.png'
+cover: 'assets/images/apress_min.png'
 navigation: True
 title: Aux récits du Jour d’après !
 date: 2020-04-13 12:00:00
