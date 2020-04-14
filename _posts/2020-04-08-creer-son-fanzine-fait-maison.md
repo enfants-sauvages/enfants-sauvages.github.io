@@ -31,7 +31,7 @@ C’est une tentative de substitution de la culture dominante, consumériste et 
 Un podcast sur le blog de floraisons en parle bien !
 - [https://floraisons.blog/podcast2-7/](https://floraisons.blog/podcast2-7/) 
 
-Envoyez-moi vos fanzines/collages par mail, [mailto:enfants.sauvages@protonmail.com](enfants.sauvages@protonmail.com)
+Envoyez-moi vos fanzines/collages par mail, **enfants.sauvages@protonmail.com**
 j’en ferais une publication avec celles-ci :)
 
 **Voici un petit bouquet de fanzine/collage réalisés par moi-même (un enfant sauvage) et des copaines :**
