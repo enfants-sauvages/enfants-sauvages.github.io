@@ -58,7 +58,7 @@ j’en ferais une publication avec celles-ci :)
 
 ![Page](/assets/images/z_collage7.jpg)
 
-**Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à <a href="mailto:gunnard.jackiel@laposte.net">gunnard.jackiel@laposte.net</a>*
+**Jusqu'à nouvel ordre !** *Si vous voulez lire les autres numéros de ce superbe fanzine, envoyez un petit mot à <email>gunnard.jackiel@laposte.net</email>*
 
 ![Page](/assets/images/z_fanzine1.PNG)
 
