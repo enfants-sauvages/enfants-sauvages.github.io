@@ -42,7 +42,7 @@ Pour que le jour d’après, Il n’y ait pas de « retour à la normale » !**
 
 ~°
 
-Vous pouvez envoyer vos écrits, dessins, photos de vos balcons.. à **[mailto:enfants.sauvages@protonmail.com](enfants.sauvages@protonmail.com)**
+Vous pouvez envoyer vos écrits, dessins, photos de vos balcons.. à **enfants.sauvages@protonmail.com**
 
 *Entretenons des cultures de résistance !*
 
