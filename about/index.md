@@ -25,7 +25,7 @@ subclass: 'post page'
 * Publication de guide pratique/ stratégique existant ou exclusif sur différent thème (l’activisme, la culture régénératrice, etc)
 * Et pleins d’autres choses qui n’émergeront qu’avec le temps !
 
-**la boite aux lettres :** *enfants.sauvages@protonmail.com*
+**la boîte aux lettres :** *{{ site.mailto }}*
 
 ### Petite note :
 Je suis conscient qu'il y a une forte critique à faire des réseaux sociaux.

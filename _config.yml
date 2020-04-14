@@ -17,6 +17,8 @@ logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url:  https://enfants-sauvages.github.io/
 source_url:  https://github.com/enfants-sauvages/enfants-sauvages.github.io
+email: enfants.sauvages@protonmail.com
+mailto: <a href="mailto:enfants.sauvages@protonmail.com">enfants.sauvages@protonmail.com</a>
 CNAME: #add cname for website to be created
 
 # Social info
