@@ -11,7 +11,8 @@ subclass: 'post tag-fiction'
 author: enfant-sauvage
 ---
 
-**Témoignage de comment je vis le confinement.**
+## Témoignage de comment je vis le confinement.
+
 ----
 
 Y a quelques jours, j’ai regardé un reportage sur les effets de notre alimentation occidentale sur la condition animale (humaine inclus) et « l’environnement ». Je savais déjà tout ça mais ça fait toujours du mal de revisionner ça ! 
