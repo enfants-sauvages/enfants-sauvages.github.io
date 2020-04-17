@@ -11,7 +11,8 @@ subclass: 'post tag-fiction'
 author: enfant-sauvage
 ---
 
-*Témoignage de comment je vis le confinement.* 
+**Témoignage de comment je vis le confinement.**
+
 ----
 
 Y a quelques jours, j’ai regardé un reportage sur les effets de notre alimentation occidentale sur la condition animale (humaine inclus) et « l’environnement ». Je savais déjà tout ça mais ça fait toujours du mal de revisionner ça ! 
@@ -30,7 +31,6 @@ Difficile de demander du changement quand ça fait une 20 année que tu acceptes
 Alors je reste dans ma chambre à rêver de révolution libertaire, de chute de la civilisation…
 
 ----
-
 Lorsque je suis dans des collectifs militants, des squats, avec les copaines ! 
 J’arrive à diminuer drastiquement mes addictions à ce système ! 
 Je me sens bien !
