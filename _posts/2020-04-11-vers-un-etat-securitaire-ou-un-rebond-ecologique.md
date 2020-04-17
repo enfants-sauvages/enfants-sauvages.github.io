@@ -11,7 +11,7 @@ subclass: 'post tag-fiction'
 author: enfant-sauvage
 ---
 
-### Chaque Vendredi soir, une sélection d’article/vidéo de la semaine qui me semblent pertinents à lire, à méditer.
+### De temps en temps, une sélection d’article/vidéo de la semaine qui me semblent pertinents à lire, à méditer.
 
 #### Il me semble important de pouvoir faire une sélection dans l’avalanche d’information que nous recevons en permanence.
 
