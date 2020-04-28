@@ -13,3 +13,26 @@ author: enfant-sauvage
 
 
 ## Des récits inspirants à lire, à voir, à écouter, à partager.
+
+
+![Image](/assets/images/1_batir_min.png)
+
+[site de l'antémonde](https://antemonde.org)
+
+![Image](/assets/images/2_batir_min.png)
+
+![Image](/assets/images/3_batir_min.png)
+
+[Lien pour écouter les lectures des nouvelles de Bâtir aussi](https://antemonde.org/audio/)
+
+![Image](/assets/images/4_100ans_min.png)
+
+[Lien pour voir l'émission](https://www.lemediatv.fr/emissions/les-emissions-speciales/reparer-le-monde-dapres-alain-damasio-et-pablo-servigne-y7IOMVFFR0C3Iz9boBDjxA)
+
+![Image](/assets/images/6_verte_min.png)
+
+![Image](/assets/images/dystopie_min.png)
+
+![Image](/assets/images/fin_dossier_min.png)
+
+
