@@ -29,7 +29,13 @@ author: enfant-sauvage
 
 [Lien pour voir l'émission](https://www.lemediatv.fr/emissions/les-emissions-speciales/reparer-le-monde-dapres-alain-damasio-et-pablo-servigne-y7IOMVFFR0C3Iz9boBDjxA)
 
+![Image](/assets/images/5_eco_sauvage_min.png)
+
+[Lien du blog d'Alessandro Pignocchi](http://puntish.blogspot.com)
+
 ![Image](/assets/images/6_verte_min.png)
+
+![Image](/assets/images/7_an01_min.png)
 
 ![Image](/assets/images/dystopie_min.png)
 
