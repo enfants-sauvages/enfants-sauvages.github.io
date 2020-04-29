@@ -15,9 +15,14 @@ author: enfant-sauvage
 ## Des récits inspirants à lire, à voir, à écouter, à partager.
 
 
+Voici une petit liste des récits que j'aime bien, beaucoup !
+Je compléterai le dossier, si je me souviens d'autre récit à vous partager ou bien qu'on m'en fasse découvrir d'autre.
+
+*Bon voyage dans le monde magique des imaginaires rêvolutionnaires !*
+
 ![Image](/assets/images/1_batir_min.png)
 
-[site de l'antémonde](https://antemonde.org)
+[Lien du site de l'antémonde](https://antemonde.org)
 
 ![Image](/assets/images/2_batir_min.png)
 
@@ -29,7 +34,7 @@ author: enfant-sauvage
 
 [Lien pour voir l'émission](https://www.lemediatv.fr/emissions/les-emissions-speciales/reparer-le-monde-dapres-alain-damasio-et-pablo-servigne-y7IOMVFFR0C3Iz9boBDjxA)
 
-![Image](/assets/images/5_eco_sauvage_min.png)
+![Image](/assets/images/5_eco_sauvage_min_modif.png)
 
 [Lien du blog d'Alessandro Pignocchi](http://puntish.blogspot.com)
 
