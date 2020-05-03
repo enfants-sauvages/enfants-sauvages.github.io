@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/Miniature_min.png'
+cover: 'assets/images/marmotte_min.png'
 navigation: True
 title: Dans le Monde d'Après - Moins de revendication, Plus d'action directe
 date: 2020-05-03 12:00:00
