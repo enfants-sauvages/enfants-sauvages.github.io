@@ -13,12 +13,15 @@ author: enfant-sauvage
 
 ## Un rendez-vous régulier pour faire naître tous les possibles
 ### De l'éducation populaire à l'action directe
+
 ---
-Misère ! En ces temps compliqués, j’ai une envie de vivre ! ILS n’auront pas ma joie de vivre ! 
+
+
+Misère ! En ces temps compliqués, j’ai une envie de vivre ! *ILS n’auront pas ma joie de vivre !*
 
 un Enfant Sauvage, trop timide d’appeler ses copains, copines pour faire plus que boire un verre. 
 
-Venez dans le Maquis des Filtres (à partir du 1 juin) de 18h de 20h tout les jours (Sauf si il pleut beaucoup, haha) PUIS BRISONS le sablier, si nous voulons pas retourner à l’anormal.
+**Venez dans le Maquis des Filtres (à partir du 1 juin) de 18h de 20h tout les jours** (Sauf si il pleut beaucoup, haha) PUIS BRISONS le sablier, si nous voulons pas retourner à l’anormal.
 
 Je trouverais un moyen pour être identifiable, hahahaha ! 
 Puis nous trouverons des moyens pour être identifiable. 
