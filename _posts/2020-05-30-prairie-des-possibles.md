@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/prairie_des_possibles_min.png'
+cover: 'assets/images/prairie_des_possiblees_min.png'
 navigation: True
 title: Prairie des Possibles
 date: 2020-05-30 12:00:00
@@ -13,7 +13,7 @@ author: enfant-sauvage
 
 ## Un rendez-vous régulier pour faire naître tous les possibles
 ### De l'éducation populaire à l'action directe
-
+---
 Misère ! En ces temps compliqués, j’ai une envie de vivre ! ILS n’auront pas ma joie de vivre ! 
 
 un Enfant Sauvage, trop timide d’appeler ses copains, copines pour faire plus que boire un verre. 
