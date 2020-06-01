@@ -20,7 +20,7 @@ Misère ! En ces temps compliqués, j’ai une envie de vivre ! *ILS n’auront 
 
 un Enfant Sauvage, trop timide d’appeler ses copains, copines pour faire plus que boire un verre. 
 
-**Venez dans le Maquis des Filtres (à partir du 1 juin) de 18h de 20h tout les jours** (Sauf si il pleut beaucoup, haha) PUIS BRISONS le sablier, si nous voulons pas retourner à l’anormal.
+**Venez dans le Maquis des Filtres (à partir du 8 juin) de 18h de 20h tout les jours** (Sauf si il pleut beaucoup, haha) PUIS BRISONS le sablier, si nous voulons pas retourner à l’anormal.
 
 Je trouverais un moyen pour être identifiable, hahahaha ! 
 Puis nous trouverons des moyens pour être identifiable OU PAS. 
@@ -56,6 +56,6 @@ On prend une vingtaine de minute OU PAS pour voir ce qu’on a envie de faire PU
 
 Dans ces Tiers-espaces et ailleurs, supprimons les comportements oppressifs.
 
-Goûtons ensemble des petits bouts d’Utopie tant que nous le pouvons encore !
+Goûtons ensemble des petits bouts de liberté tant que nous le pouvons encore !
 
 A mes AMI.E.S !
